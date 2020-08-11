@@ -5,7 +5,6 @@ extern "C"
 {
 #endif
 
-    extern int Num;
     extern void foo();
 
 #ifdef __cplusplus

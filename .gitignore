@@ -15,3 +15,7 @@
 # vendor/
 
 test_cgo_sharedlib
+*.obj
+*.a
+*.lib
+*.exp

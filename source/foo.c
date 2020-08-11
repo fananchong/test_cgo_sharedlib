@@ -1,6 +1,8 @@
 #include <stdio.h>
-int Num = 8;
+
 void foo()
 {
-    printf("hello world\n");
+    printf("hello world1\n");
+    printf("hello world2\n");
+    printf("hello world3\n");
 }
